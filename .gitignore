@@ -1,0 +1,8 @@
+# استبعاد ملفات Python المؤقتة
+*.pyc
+*.pyo
+__pycache__/
+
+# استبعاد ملفات نظام التشغيل
+.DS_Store
+Thumbs.db
